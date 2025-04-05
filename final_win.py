@@ -111,3 +111,11 @@ class FinalWin(QWidget):
                 background-color: #555555;  /* Warna lebih terang saat hover */
             }
         """)
+
+      def welcoming_application():
+            print('Hi, welcome to my application')
+
+
+
+
+
